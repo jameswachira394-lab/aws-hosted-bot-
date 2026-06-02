@@ -1,0 +1,598 @@
+2026-06-02 14:27:40 | INFO     | main | ============================================================
+2026-06-02 14:27:40 | INFO     | main |   OB Trading Bot starting | symbol=EURUSD
+2026-06-02 14:27:40 | INFO     | main |   Timeframe=M5 | DryRun=False
+2026-06-02 14:27:40 | INFO     | main | ============================================================
+2026-06-02 14:27:40 | CRITICAL | main | Cannot connect to MT5. Exiting.
+2026-06-02 14:32:12 | INFO     | main | ============================================================
+2026-06-02 14:32:12 | INFO     | main |   OB Trading Bot starting | symbol=EURUSD
+2026-06-02 14:32:12 | INFO     | main |   Timeframe=M5 | DryRun=False
+2026-06-02 14:32:12 | INFO     | main | ============================================================
+2026-06-02 14:32:12 | INFO     | main | Symbol info | digits=5 | contract=100000.0 | spread=10 pts
+2026-06-02 14:32:13 | DEBUG    | main | Cycle 1 done in 0.5s — sleeping 29.5s
+2026-06-02 14:33:09 | INFO     | main | ============================================================
+2026-06-02 14:33:09 | INFO     | main |   OB Trading Bot starting | symbol=EURUSD
+2026-06-02 14:33:09 | INFO     | main |   Timeframe=M5 | DryRun=False
+2026-06-02 14:33:09 | INFO     | main | ============================================================
+2026-06-02 14:33:09 | INFO     | main | Symbol info | digits=5 | contract=100000.0 | spread=10 pts
+2026-06-02 14:33:09 | DEBUG    | main | Cycle 1 done in 0.7s — sleeping 29.3s
+2026-06-02 14:33:39 | DEBUG    | main | Cycle 2 done in 0.6s — sleeping 29.4s
+2026-06-02 14:34:10 | DEBUG    | main | Cycle 3 done in 1.0s — sleeping 29.0s
+2026-06-02 14:34:40 | DEBUG    | main | Cycle 4 done in 0.4s — sleeping 29.6s
+2026-06-02 14:35:11 | DEBUG    | main | Cycle 5 done in 0.8s — sleeping 29.2s
+2026-06-02 14:35:41 | DEBUG    | main | Cycle 6 done in 1.2s — sleeping 28.8s
+2026-06-02 14:36:11 | DEBUG    | main | Cycle 7 done in 0.5s — sleeping 29.5s
+2026-06-02 14:36:41 | DEBUG    | main | Cycle 8 done in 0.7s — sleeping 29.3s
+2026-06-02 14:37:11 | DEBUG    | main | Cycle 9 done in 0.6s — sleeping 29.4s
+2026-06-02 14:37:42 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=23 | LastBar=2026-06-02 14:35:00
+2026-06-02 14:37:42 | DEBUG    | main | Cycle 10 done in 1.2s — sleeping 28.8s
+2026-06-02 14:38:15 | DEBUG    | main | Cycle 11 done in 3.3s — sleeping 26.7s
+2026-06-02 14:38:48 | DEBUG    | main | Cycle 12 done in 6.4s — sleeping 23.6s
+2026-06-02 14:39:13 | DEBUG    | main | Cycle 13 done in 0.9s — sleeping 29.1s
+2026-06-02 14:39:42 | DEBUG    | main | Cycle 14 done in 0.4s — sleeping 29.6s
+2026-06-02 14:40:13 | DEBUG    | main | Cycle 15 done in 1.1s — sleeping 28.9s
+2026-06-02 14:40:45 | DEBUG    | main | Cycle 16 done in 2.5s — sleeping 27.5s
+2026-06-02 14:41:18 | DEBUG    | main | Cycle 17 done in 5.3s — sleeping 24.7s
+2026-06-02 14:41:45 | DEBUG    | main | Cycle 18 done in 1.7s — sleeping 28.3s
+2026-06-02 14:42:18 | DEBUG    | main | Cycle 19 done in 4.6s — sleeping 25.4s
+2026-06-02 14:42:45 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=21 | LastBar=2026-06-02 14:40:00
+2026-06-02 14:42:45 | DEBUG    | main | Cycle 20 done in 1.8s — sleeping 28.2s
+2026-06-02 14:43:15 | DEBUG    | main | Cycle 21 done in 0.8s — sleeping 29.2s
+2026-06-02 14:43:45 | DEBUG    | main | Cycle 22 done in 1.0s — sleeping 29.0s
+2026-06-02 14:44:15 | DEBUG    | main | Cycle 23 done in 0.6s — sleeping 29.4s
+2026-06-02 14:44:45 | DEBUG    | main | Cycle 24 done in 0.8s — sleeping 29.2s
+2026-06-02 14:45:16 | INFO     | main | EXECUTING | BUY EURUSD | Entry≈1.16512 | SL=1.16447 | TP1=1.16577 | TP2=1.16642 | Lots=0.01 | Risk=6.5pips
+2026-06-02 14:45:21 | ERROR    | main | Order execution failed — see logs above.
+2026-06-02 14:45:21 | DEBUG    | main | Cycle 25 done in 6.0s — sleeping 24.0s
+2026-06-02 14:45:46 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 14:45:46 | DEBUG    | main | Cycle 26 done in 1.3s — sleeping 28.7s
+2026-06-02 14:46:18 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 14:46:18 | DEBUG    | main | Cycle 27 done in 3.2s — sleeping 26.8s
+2026-06-02 14:46:50 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 14:46:50 | DEBUG    | main | Cycle 28 done in 4.3s — sleeping 25.7s
+2026-06-02 14:47:16 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 14:47:16 | DEBUG    | main | Cycle 29 done in 0.9s — sleeping 29.1s
+2026-06-02 14:47:47 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 14:47:47 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=21 | LastBar=2026-06-02 14:45:00
+2026-06-02 14:47:47 | DEBUG    | main | Cycle 30 done in 1.3s — sleeping 28.7s
+2026-06-02 14:48:17 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 14:48:17 | DEBUG    | main | Cycle 31 done in 0.8s — sleeping 29.2s
+2026-06-02 14:48:47 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 14:48:47 | DEBUG    | main | Cycle 32 done in 0.6s — sleeping 29.4s
+2026-06-02 14:49:17 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 14:49:17 | DEBUG    | main | Cycle 33 done in 0.4s — sleeping 29.6s
+2026-06-02 14:49:47 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 14:49:47 | DEBUG    | main | Cycle 34 done in 0.6s — sleeping 29.4s
+2026-06-02 14:50:18 | DEBUG    | main | Cycle 35 done in 0.8s — sleeping 29.2s
+2026-06-02 14:50:48 | DEBUG    | main | Cycle 36 done in 0.5s — sleeping 29.5s
+2026-06-02 14:51:18 | DEBUG    | main | Cycle 37 done in 0.6s — sleeping 29.4s
+2026-06-02 14:51:48 | DEBUG    | main | Cycle 38 done in 0.6s — sleeping 29.4s
+2026-06-02 14:52:18 | DEBUG    | main | Cycle 39 done in 0.5s — sleeping 29.5s
+2026-06-02 14:52:48 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=18 | LastBar=2026-06-02 14:50:00
+2026-06-02 14:52:48 | DEBUG    | main | Cycle 40 done in 0.5s — sleeping 29.5s
+2026-06-02 14:53:18 | DEBUG    | main | Cycle 41 done in 0.6s — sleeping 29.4s
+2026-06-02 14:53:49 | DEBUG    | main | Cycle 42 done in 0.8s — sleeping 29.2s
+2026-06-02 14:54:19 | DEBUG    | main | Cycle 43 done in 0.4s — sleeping 29.6s
+2026-06-02 14:54:50 | DEBUG    | main | Cycle 44 done in 2.2s — sleeping 27.8s
+2026-06-02 14:55:19 | DEBUG    | main | Cycle 45 done in 0.5s — sleeping 29.5s
+2026-06-02 14:55:50 | DEBUG    | main | Cycle 46 done in 1.0s — sleeping 29.0s
+2026-06-02 14:56:19 | DEBUG    | main | Cycle 47 done in 0.6s — sleeping 29.4s
+2026-06-02 14:56:50 | DEBUG    | main | Cycle 48 done in 0.7s — sleeping 29.3s
+2026-06-02 14:57:20 | DEBUG    | main | Cycle 49 done in 0.7s — sleeping 29.3s
+2026-06-02 14:57:50 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=18 | LastBar=2026-06-02 14:55:00
+2026-06-02 14:57:50 | DEBUG    | main | Cycle 50 done in 0.6s — sleeping 29.4s
+2026-06-02 14:58:21 | DEBUG    | main | Cycle 51 done in 1.2s — sleeping 28.8s
+2026-06-02 14:58:50 | DEBUG    | main | Cycle 52 done in 0.5s — sleeping 29.5s
+2026-06-02 14:59:20 | DEBUG    | main | Cycle 53 done in 0.5s — sleeping 29.5s
+2026-06-02 14:59:50 | DEBUG    | main | Cycle 54 done in 0.5s — sleeping 29.5s
+2026-06-02 15:00:21 | DEBUG    | main | Cycle 55 done in 0.7s — sleeping 29.3s
+2026-06-02 15:00:51 | DEBUG    | main | Cycle 56 done in 0.5s — sleeping 29.5s
+2026-06-02 15:01:22 | DEBUG    | main | Cycle 57 done in 0.9s — sleeping 29.1s
+2026-06-02 15:01:52 | DEBUG    | main | Cycle 58 done in 0.5s — sleeping 29.5s
+2026-06-02 15:02:23 | DEBUG    | main | Cycle 59 done in 0.6s — sleeping 29.4s
+2026-06-02 15:02:53 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=20 | LastBar=2026-06-02 15:00:00
+2026-06-02 15:02:53 | DEBUG    | main | Cycle 60 done in 0.5s — sleeping 29.5s
+2026-06-02 15:03:23 | DEBUG    | main | Cycle 61 done in 0.4s — sleeping 29.6s
+2026-06-02 15:03:53 | DEBUG    | main | Cycle 62 done in 0.6s — sleeping 29.4s
+2026-06-02 15:04:23 | DEBUG    | main | Cycle 63 done in 0.5s — sleeping 29.5s
+2026-06-02 15:04:53 | DEBUG    | main | Cycle 64 done in 0.4s — sleeping 29.6s
+2026-06-02 15:05:24 | DEBUG    | main | Cycle 65 done in 0.4s — sleeping 29.6s
+2026-06-02 15:05:54 | DEBUG    | main | Cycle 66 done in 0.5s — sleeping 29.5s
+2026-06-02 15:06:24 | DEBUG    | main | Cycle 67 done in 0.5s — sleeping 29.5s
+2026-06-02 15:06:55 | DEBUG    | main | Cycle 68 done in 0.7s — sleeping 29.3s
+2026-06-02 15:07:25 | DEBUG    | main | Cycle 69 done in 0.4s — sleeping 29.6s
+2026-06-02 15:07:56 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=20 | LastBar=2026-06-02 15:05:00
+2026-06-02 15:07:56 | DEBUG    | main | Cycle 70 done in 0.7s — sleeping 29.3s
+2026-06-02 15:08:26 | DEBUG    | main | Cycle 71 done in 0.5s — sleeping 29.5s
+2026-06-02 15:08:56 | DEBUG    | main | Cycle 72 done in 0.5s — sleeping 29.5s
+2026-06-02 15:09:26 | DEBUG    | main | Cycle 73 done in 0.6s — sleeping 29.4s
+2026-06-02 15:09:56 | DEBUG    | main | Cycle 74 done in 0.4s — sleeping 29.6s
+2026-06-02 15:10:26 | DEBUG    | main | Cycle 75 done in 0.5s — sleeping 29.5s
+2026-06-02 15:10:56 | DEBUG    | main | Cycle 76 done in 0.5s — sleeping 29.5s
+2026-06-02 15:11:26 | DEBUG    | main | Cycle 77 done in 0.4s — sleeping 29.6s
+2026-06-02 15:11:57 | DEBUG    | main | Cycle 78 done in 0.5s — sleeping 29.5s
+2026-06-02 15:12:27 | DEBUG    | main | Cycle 79 done in 0.6s — sleeping 29.4s
+2026-06-02 15:12:57 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=21 | LastBar=2026-06-02 15:10:00
+2026-06-02 15:12:57 | DEBUG    | main | Cycle 80 done in 0.5s — sleeping 29.5s
+2026-06-02 15:13:28 | DEBUG    | main | Cycle 81 done in 1.0s — sleeping 29.0s
+2026-06-02 15:13:58 | DEBUG    | main | Cycle 82 done in 0.4s — sleeping 29.6s
+2026-06-02 15:14:29 | DEBUG    | main | Cycle 83 done in 0.6s — sleeping 29.4s
+2026-06-02 15:14:59 | DEBUG    | main | Cycle 84 done in 0.5s — sleeping 29.5s
+2026-06-02 15:15:29 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:15:29 | DEBUG    | main | Cycle 85 done in 0.5s — sleeping 29.5s
+2026-06-02 15:16:00 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:16:00 | DEBUG    | main | Cycle 86 done in 0.7s — sleeping 29.3s
+2026-06-02 15:16:30 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:16:30 | DEBUG    | main | Cycle 87 done in 0.6s — sleeping 29.4s
+2026-06-02 15:17:00 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:17:00 | DEBUG    | main | Cycle 88 done in 0.5s — sleeping 29.5s
+2026-06-02 15:17:30 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:17:30 | DEBUG    | main | Cycle 89 done in 0.5s — sleeping 29.5s
+2026-06-02 15:18:00 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:18:00 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=18 | LastBar=2026-06-02 15:15:00
+2026-06-02 15:18:00 | DEBUG    | main | Cycle 90 done in 0.4s — sleeping 29.6s
+2026-06-02 15:18:30 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:18:30 | DEBUG    | main | Cycle 91 done in 0.4s — sleeping 29.6s
+2026-06-02 15:19:01 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:19:01 | DEBUG    | main | Cycle 92 done in 0.6s — sleeping 29.4s
+2026-06-02 15:19:31 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:19:31 | DEBUG    | main | Cycle 93 done in 0.4s — sleeping 29.6s
+2026-06-02 15:20:02 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:20:02 | DEBUG    | main | Cycle 94 done in 0.8s — sleeping 29.2s
+2026-06-02 15:20:32 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:20:32 | DEBUG    | main | Cycle 95 done in 0.4s — sleeping 29.6s
+2026-06-02 15:21:02 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:21:02 | DEBUG    | main | Cycle 96 done in 0.6s — sleeping 29.4s
+2026-06-02 15:21:33 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:21:33 | DEBUG    | main | Cycle 97 done in 0.7s — sleeping 29.3s
+2026-06-02 15:22:03 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:22:03 | DEBUG    | main | Cycle 98 done in 0.5s — sleeping 29.5s
+2026-06-02 15:22:33 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:22:33 | DEBUG    | main | Cycle 99 done in 0.5s — sleeping 29.5s
+2026-06-02 15:23:03 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:23:03 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=18 | LastBar=2026-06-02 15:20:00
+2026-06-02 15:23:03 | DEBUG    | main | Cycle 100 done in 0.9s — sleeping 29.1s
+2026-06-02 15:23:33 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:23:33 | DEBUG    | main | Cycle 101 done in 0.7s — sleeping 29.3s
+2026-06-02 15:24:03 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:24:03 | DEBUG    | main | Cycle 102 done in 0.5s — sleeping 29.5s
+2026-06-02 15:24:36 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:24:36 | DEBUG    | main | Cycle 103 done in 3.2s — sleeping 26.8s
+2026-06-02 15:25:04 | DEBUG    | main | Cycle 104 done in 0.6s — sleeping 29.4s
+2026-06-02 15:25:35 | DEBUG    | main | Cycle 105 done in 1.0s — sleeping 29.0s
+2026-06-02 15:26:04 | DEBUG    | main | Cycle 106 done in 0.7s — sleeping 29.3s
+2026-06-02 15:26:35 | DEBUG    | main | Cycle 107 done in 0.7s — sleeping 29.3s
+2026-06-02 15:27:05 | DEBUG    | main | Cycle 108 done in 0.7s — sleeping 29.3s
+2026-06-02 15:27:35 | DEBUG    | main | Cycle 109 done in 0.4s — sleeping 29.6s
+2026-06-02 15:28:05 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=18 | LastBar=2026-06-02 15:25:00
+2026-06-02 15:28:05 | DEBUG    | main | Cycle 110 done in 0.5s — sleeping 29.5s
+2026-06-02 15:28:35 | DEBUG    | main | Cycle 111 done in 0.7s — sleeping 29.3s
+2026-06-02 15:29:06 | DEBUG    | main | Cycle 112 done in 0.5s — sleeping 29.5s
+2026-06-02 15:29:36 | DEBUG    | main | Cycle 113 done in 1.3s — sleeping 28.7s
+2026-06-02 15:30:06 | DEBUG    | main | Cycle 114 done in 0.6s — sleeping 29.4s
+2026-06-02 15:30:36 | DEBUG    | main | Cycle 115 done in 0.5s — sleeping 29.5s
+2026-06-02 15:31:06 | DEBUG    | main | Cycle 116 done in 0.7s — sleeping 29.3s
+2026-06-02 15:31:36 | DEBUG    | main | Cycle 117 done in 0.5s — sleeping 29.5s
+2026-06-02 15:32:07 | DEBUG    | main | Cycle 118 done in 1.0s — sleeping 29.0s
+2026-06-02 15:32:36 | DEBUG    | main | Cycle 119 done in 0.6s — sleeping 29.4s
+2026-06-02 15:33:06 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=18 | LastBar=2026-06-02 15:30:00
+2026-06-02 15:33:06 | DEBUG    | main | Cycle 120 done in 0.4s — sleeping 29.6s
+2026-06-02 15:33:37 | DEBUG    | main | Cycle 121 done in 0.5s — sleeping 29.5s
+2026-06-02 15:34:07 | DEBUG    | main | Cycle 122 done in 0.8s — sleeping 29.2s
+2026-06-02 15:34:37 | DEBUG    | main | Cycle 123 done in 0.5s — sleeping 29.5s
+2026-06-02 15:35:07 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:35:07 | DEBUG    | main | Cycle 124 done in 0.5s — sleeping 29.5s
+2026-06-02 15:35:37 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:35:37 | DEBUG    | main | Cycle 125 done in 0.4s — sleeping 29.6s
+2026-06-02 15:36:08 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:36:08 | DEBUG    | main | Cycle 126 done in 0.9s — sleeping 29.1s
+2026-06-02 15:36:38 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:36:38 | DEBUG    | main | Cycle 127 done in 0.8s — sleeping 29.2s
+2026-06-02 15:37:08 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:37:08 | DEBUG    | main | Cycle 128 done in 0.5s — sleeping 29.5s
+2026-06-02 15:37:39 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:37:39 | DEBUG    | main | Cycle 129 done in 0.9s — sleeping 29.1s
+2026-06-02 15:38:09 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:38:09 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=18 | LastBar=2026-06-02 15:35:00
+2026-06-02 15:38:09 | DEBUG    | main | Cycle 130 done in 0.5s — sleeping 29.5s
+2026-06-02 15:38:39 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:38:39 | DEBUG    | main | Cycle 131 done in 0.5s — sleeping 29.5s
+2026-06-02 15:39:09 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:39:09 | DEBUG    | main | Cycle 132 done in 0.6s — sleeping 29.4s
+2026-06-02 15:39:39 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 15:39:39 | DEBUG    | main | Cycle 133 done in 0.4s — sleeping 29.6s
+2026-06-02 15:40:10 | DEBUG    | main | Cycle 134 done in 0.6s — sleeping 29.4s
+2026-06-02 15:40:41 | DEBUG    | main | Cycle 135 done in 1.7s — sleeping 28.3s
+2026-06-02 15:41:10 | DEBUG    | main | Cycle 136 done in 0.5s — sleeping 29.5s
+2026-06-02 15:41:40 | DEBUG    | main | Cycle 137 done in 0.5s — sleeping 29.5s
+2026-06-02 15:42:10 | DEBUG    | main | Cycle 138 done in 0.5s — sleeping 29.5s
+2026-06-02 15:42:40 | DEBUG    | main | Cycle 139 done in 0.5s — sleeping 29.5s
+2026-06-02 15:43:11 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=18 | LastBar=2026-06-02 15:40:00
+2026-06-02 15:43:11 | DEBUG    | main | Cycle 140 done in 1.1s — sleeping 28.9s
+2026-06-02 15:43:40 | DEBUG    | main | Cycle 141 done in 0.5s — sleeping 29.5s
+2026-06-02 15:44:10 | DEBUG    | main | Cycle 142 done in 0.6s — sleeping 29.4s
+2026-06-02 15:44:40 | DEBUG    | main | Cycle 143 done in 0.5s — sleeping 29.5s
+2026-06-02 15:45:10 | DEBUG    | main | Cycle 144 done in 0.4s — sleeping 29.6s
+2026-06-02 15:45:41 | DEBUG    | main | Cycle 145 done in 0.5s — sleeping 29.5s
+2026-06-02 15:46:11 | DEBUG    | main | Cycle 146 done in 0.7s — sleeping 29.3s
+2026-06-02 15:46:41 | DEBUG    | main | Cycle 147 done in 0.5s — sleeping 29.5s
+2026-06-02 15:47:11 | DEBUG    | main | Cycle 148 done in 0.4s — sleeping 29.6s
+2026-06-02 15:47:41 | DEBUG    | main | Cycle 149 done in 0.6s — sleeping 29.4s
+2026-06-02 15:48:11 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=18 | LastBar=2026-06-02 15:45:00
+2026-06-02 15:48:11 | DEBUG    | main | Cycle 150 done in 0.4s — sleeping 29.6s
+2026-06-02 15:48:42 | DEBUG    | main | Cycle 151 done in 0.9s — sleeping 29.1s
+2026-06-02 15:49:13 | DEBUG    | main | Cycle 152 done in 1.5s — sleeping 28.5s
+2026-06-02 15:49:44 | DEBUG    | main | Cycle 153 done in 1.9s — sleeping 28.1s
+2026-06-02 15:50:13 | DEBUG    | main | Cycle 154 done in 1.4s — sleeping 28.6s
+2026-06-02 15:50:43 | DEBUG    | main | Cycle 155 done in 0.7s — sleeping 29.3s
+2026-06-02 15:51:14 | DEBUG    | main | Cycle 156 done in 1.3s — sleeping 28.7s
+2026-06-02 15:51:44 | DEBUG    | main | Cycle 157 done in 1.0s — sleeping 29.0s
+2026-06-02 15:52:14 | DEBUG    | main | Cycle 158 done in 1.0s — sleeping 29.0s
+2026-06-02 15:52:44 | DEBUG    | main | Cycle 159 done in 1.0s — sleeping 29.0s
+2026-06-02 15:53:15 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=19 | LastBar=2026-06-02 15:50:00
+2026-06-02 15:53:15 | DEBUG    | main | Cycle 160 done in 1.3s — sleeping 28.7s
+2026-06-02 15:53:44 | DEBUG    | main | Cycle 161 done in 0.5s — sleeping 29.5s
+2026-06-02 15:54:15 | DEBUG    | main | Cycle 162 done in 1.0s — sleeping 29.0s
+2026-06-02 15:54:45 | DEBUG    | main | Cycle 163 done in 0.5s — sleeping 29.5s
+2026-06-02 15:55:16 | DEBUG    | main | Cycle 164 done in 0.8s — sleeping 29.2s
+2026-06-02 15:55:47 | DEBUG    | main | Cycle 165 done in 1.2s — sleeping 28.8s
+2026-06-02 15:56:16 | DEBUG    | main | Cycle 166 done in 0.5s — sleeping 29.5s
+2026-06-02 15:56:46 | DEBUG    | main | Cycle 167 done in 0.4s — sleeping 29.6s
+2026-06-02 15:57:17 | DEBUG    | main | Cycle 168 done in 0.5s — sleeping 29.5s
+2026-06-02 15:57:47 | DEBUG    | main | Cycle 169 done in 0.5s — sleeping 29.5s
+2026-06-02 15:58:18 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=19 | LastBar=2026-06-02 15:55:00
+2026-06-02 15:58:18 | DEBUG    | main | Cycle 170 done in 1.1s — sleeping 28.9s
+2026-06-02 15:58:47 | DEBUG    | main | Cycle 171 done in 0.6s — sleeping 29.4s
+2026-06-02 15:59:17 | DEBUG    | main | Cycle 172 done in 0.4s — sleeping 29.6s
+2026-06-02 15:59:48 | DEBUG    | main | Cycle 173 done in 0.7s — sleeping 29.3s
+2026-06-02 16:00:18 | DEBUG    | main | Cycle 174 done in 0.5s — sleeping 29.5s
+2026-06-02 16:00:48 | DEBUG    | main | Cycle 175 done in 0.5s — sleeping 29.5s
+2026-06-02 16:01:19 | DEBUG    | main | Cycle 176 done in 0.8s — sleeping 29.2s
+2026-06-02 16:01:49 | DEBUG    | main | Cycle 177 done in 0.7s — sleeping 29.3s
+2026-06-02 16:02:19 | DEBUG    | main | Cycle 178 done in 0.5s — sleeping 29.5s
+2026-06-02 16:02:49 | DEBUG    | main | Cycle 179 done in 0.4s — sleeping 29.6s
+2026-06-02 16:03:20 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=17 | LastBar=2026-06-02 16:00:00
+2026-06-02 16:03:20 | DEBUG    | main | Cycle 180 done in 0.8s — sleeping 29.2s
+2026-06-02 16:03:52 | DEBUG    | main | Cycle 181 done in 3.0s — sleeping 27.0s
+2026-06-02 16:04:20 | DEBUG    | main | Cycle 182 done in 0.6s — sleeping 29.4s
+2026-06-02 16:04:51 | DEBUG    | main | Cycle 183 done in 1.8s — sleeping 28.2s
+2026-06-02 16:05:20 | DEBUG    | main | Cycle 184 done in 0.7s — sleeping 29.3s
+2026-06-02 16:05:51 | DEBUG    | main | Cycle 185 done in 0.6s — sleeping 29.4s
+2026-06-02 16:06:21 | DEBUG    | main | Cycle 186 done in 0.5s — sleeping 29.5s
+2026-06-02 16:06:51 | DEBUG    | main | Cycle 187 done in 0.5s — sleeping 29.5s
+2026-06-02 16:07:22 | DEBUG    | main | Cycle 188 done in 1.4s — sleeping 28.6s
+2026-06-02 16:07:51 | DEBUG    | main | Cycle 189 done in 1.1s — sleeping 28.9s
+2026-06-02 16:08:21 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=17 | LastBar=2026-06-02 16:05:00
+2026-06-02 16:08:21 | DEBUG    | main | Cycle 190 done in 0.5s — sleeping 29.5s
+2026-06-02 16:08:51 | DEBUG    | main | Cycle 191 done in 0.7s — sleeping 29.3s
+2026-06-02 16:09:21 | DEBUG    | main | Cycle 192 done in 0.6s — sleeping 29.4s
+2026-06-02 16:09:52 | DEBUG    | main | Cycle 193 done in 1.2s — sleeping 28.8s
+2026-06-02 16:10:22 | DEBUG    | main | Cycle 194 done in 0.5s — sleeping 29.5s
+2026-06-02 16:10:52 | DEBUG    | main | Cycle 195 done in 1.1s — sleeping 28.9s
+2026-06-02 16:11:22 | DEBUG    | main | Cycle 196 done in 0.6s — sleeping 29.4s
+2026-06-02 16:11:52 | DEBUG    | main | Cycle 197 done in 0.4s — sleeping 29.6s
+2026-06-02 16:12:22 | DEBUG    | main | Cycle 198 done in 0.7s — sleeping 29.3s
+2026-06-02 16:12:52 | DEBUG    | main | Cycle 199 done in 0.9s — sleeping 29.1s
+2026-06-02 16:13:24 | INFO     | main | STATUS | Balance=11.74 | Equity=11.74 | OpenTrades=0 | ActiveOBs=20 | LastBar=2026-06-02 16:10:00
+2026-06-02 16:13:24 | DEBUG    | main | Cycle 200 done in 1.7s — sleeping 28.3s
+2026-06-02 16:13:53 | DEBUG    | main | Cycle 201 done in 0.7s — sleeping 29.3s
+2026-06-02 16:14:23 | DEBUG    | main | Cycle 202 done in 0.7s — sleeping 29.3s
+2026-06-02 16:14:53 | DEBUG    | main | Cycle 203 done in 0.7s — sleeping 29.3s
+2026-06-02 16:15:24 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 16:15:24 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16487 | Pips=-1.0 | P&L=-0.10
+2026-06-02 16:15:24 | DEBUG    | main | Cycle 204 done in 0.6s — sleeping 29.4s
+2026-06-02 16:15:54 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 16:15:54 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16487 | Pips=-1.0 | P&L=-0.10
+2026-06-02 16:15:54 | DEBUG    | main | Cycle 205 done in 0.5s — sleeping 29.5s
+2026-06-02 16:16:24 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 16:16:24 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16493 | Pips=-0.4 | P&L=-0.04
+2026-06-02 16:16:24 | DEBUG    | main | Cycle 206 done in 0.8s — sleeping 29.2s
+2026-06-02 16:16:54 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 16:16:54 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16497 | Pips=+0.0 | P&L=0.00
+2026-06-02 16:16:54 | DEBUG    | main | Cycle 207 done in 0.5s — sleeping 29.5s
+2026-06-02 16:17:25 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 16:17:25 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16503 | Pips=+0.6 | P&L=0.06
+2026-06-02 16:17:25 | DEBUG    | main | Cycle 208 done in 0.6s — sleeping 29.4s
+2026-06-02 16:17:55 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 16:17:55 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16487 | Pips=-1.0 | P&L=-0.10
+2026-06-02 16:17:55 | DEBUG    | main | Cycle 209 done in 0.6s — sleeping 29.4s
+2026-06-02 16:18:25 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 16:18:25 | INFO     | main | STATUS | Balance=11.74 | Equity=11.63 | OpenTrades=1 | ActiveOBs=19 | LastBar=2026-06-02 16:15:00
+2026-06-02 16:18:25 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16486 | Pips=-1.1 | P&L=-0.11
+2026-06-02 16:18:25 | DEBUG    | main | Cycle 210 done in 0.5s — sleeping 29.5s
+2026-06-02 16:18:55 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 16:18:55 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16485 | Pips=-1.2 | P&L=-0.12
+2026-06-02 16:18:55 | DEBUG    | main | Cycle 211 done in 0.5s — sleeping 29.5s
+2026-06-02 16:19:25 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 16:19:25 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16482 | Pips=-1.5 | P&L=-0.15
+2026-06-02 16:19:25 | DEBUG    | main | Cycle 212 done in 0.5s — sleeping 29.5s
+2026-06-02 16:19:56 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 16:19:56 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16482 | Pips=-1.5 | P&L=-0.15
+2026-06-02 16:19:56 | DEBUG    | main | Cycle 213 done in 0.6s — sleeping 29.4s
+2026-06-02 16:20:26 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16491 | Pips=-0.6 | P&L=-0.06
+2026-06-02 16:20:26 | DEBUG    | main | Cycle 214 done in 0.6s — sleeping 29.4s
+2026-06-02 16:20:57 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16487 | Pips=-1.0 | P&L=-0.10
+2026-06-02 16:20:57 | DEBUG    | main | Cycle 215 done in 1.2s — sleeping 28.8s
+2026-06-02 16:21:27 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16486 | Pips=-1.1 | P&L=-0.11
+2026-06-02 16:21:27 | DEBUG    | main | Cycle 216 done in 1.2s — sleeping 28.8s
+2026-06-02 16:21:58 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16477 | Pips=-2.0 | P&L=-0.20
+2026-06-02 16:21:58 | DEBUG    | main | Cycle 217 done in 2.1s — sleeping 27.9s
+2026-06-02 16:22:28 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16473 | Pips=-2.4 | P&L=-0.24
+2026-06-02 16:22:28 | DEBUG    | main | Cycle 218 done in 1.9s — sleeping 28.1s
+2026-06-02 16:22:59 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16472 | Pips=-2.5 | P&L=-0.25
+2026-06-02 16:22:59 | DEBUG    | main | Cycle 219 done in 1.9s — sleeping 28.1s
+2026-06-02 16:23:28 | INFO     | main | STATUS | Balance=11.74 | Equity=11.62 | OpenTrades=1 | ActiveOBs=19 | LastBar=2026-06-02 16:20:00
+2026-06-02 16:23:28 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16485 | Pips=-1.2 | P&L=-0.12
+2026-06-02 16:23:28 | DEBUG    | main | Cycle 220 done in 0.7s — sleeping 29.3s
+2026-06-02 16:23:58 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16481 | Pips=-1.6 | P&L=-0.16
+2026-06-02 16:23:58 | DEBUG    | main | Cycle 221 done in 0.8s — sleeping 29.2s
+2026-06-02 16:24:28 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16484 | Pips=-1.3 | P&L=-0.13
+2026-06-02 16:24:28 | DEBUG    | main | Cycle 222 done in 0.6s — sleeping 29.4s
+2026-06-02 16:24:58 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16491 | Pips=-0.6 | P&L=-0.06
+2026-06-02 16:24:58 | DEBUG    | main | Cycle 223 done in 0.6s — sleeping 29.4s
+2026-06-02 16:25:29 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 16:25:29 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16496 | Pips=-0.1 | P&L=-0.01
+2026-06-02 16:25:29 | DEBUG    | main | Cycle 224 done in 0.9s — sleeping 29.1s
+2026-06-02 16:26:02 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 16:26:02 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16491 | Pips=-0.6 | P&L=-0.06
+2026-06-02 16:26:02 | DEBUG    | main | Cycle 225 done in 3.3s — sleeping 26.7s
+2026-06-02 16:26:30 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 16:26:30 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16491 | Pips=-0.6 | P&L=-0.06
+2026-06-02 16:26:30 | DEBUG    | main | Cycle 226 done in 1.3s — sleeping 28.7s
+2026-06-02 16:27:01 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 16:27:01 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16488 | Pips=-0.9 | P&L=-0.09
+2026-06-02 16:27:01 | DEBUG    | main | Cycle 227 done in 1.7s — sleeping 28.3s
+2026-06-02 16:27:31 | DEBUG    | main | Signal already processed for this bar — skipping.
+2026-06-02 16:27:31 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16488 | Pips=-0.9 | P&L=-0.09
+2026-06-02 16:27:31 | DEBUG    | main | Cycle 228 done in 1.6s — sleeping 28.4s
+2026-06-02 16:28:00 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16474 | Pips=-2.3 | P&L=-0.23
+2026-06-02 16:28:00 | DEBUG    | main | Cycle 229 done in 0.8s — sleeping 29.2s
+2026-06-02 16:28:30 | INFO     | main | STATUS | Balance=11.74 | Equity=11.48 | OpenTrades=1 | ActiveOBs=21 | LastBar=2026-06-02 16:25:00
+2026-06-02 16:28:30 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16471 | Pips=-2.6 | P&L=-0.26
+2026-06-02 16:28:30 | DEBUG    | main | Cycle 230 done in 0.5s — sleeping 29.5s
+2026-06-02 16:29:00 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16467 | Pips=-3.0 | P&L=-0.30
+2026-06-02 16:29:00 | DEBUG    | main | Cycle 231 done in 0.8s — sleeping 29.2s
+2026-06-02 16:29:34 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16460 | Pips=-3.7 | P&L=-0.37
+2026-06-02 16:29:34 | DEBUG    | main | Cycle 232 done in 3.7s — sleeping 26.3s
+2026-06-02 16:30:02 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16459 | Pips=-3.8 | P&L=-0.38
+2026-06-02 16:30:02 | DEBUG    | main | Cycle 233 done in 1.8s — sleeping 28.2s
+2026-06-02 16:30:32 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16458 | Pips=-3.9 | P&L=-0.39
+2026-06-02 16:30:32 | DEBUG    | main | Cycle 234 done in 1.5s — sleeping 28.5s
+2026-06-02 16:31:03 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16451 | Pips=-4.6 | P&L=-0.46
+2026-06-02 16:31:03 | DEBUG    | main | Cycle 235 done in 2.1s — sleeping 27.9s
+2026-06-02 16:31:33 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16463 | Pips=-3.4 | P&L=-0.34
+2026-06-02 16:31:33 | DEBUG    | main | Cycle 236 done in 1.7s — sleeping 28.3s
+2026-06-02 16:32:04 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16470 | Pips=-2.7 | P&L=-0.27
+2026-06-02 16:32:04 | DEBUG    | main | Cycle 237 done in 2.2s — sleeping 27.8s
+2026-06-02 16:32:33 | DEBUG    | main | POS #1810922736 | BUY EURUSD | Entry=1.16497 | Current=1.16450 | Pips=-4.7 | P&L=-0.47
+2026-06-02 16:32:33 | DEBUG    | main | Cycle 238 done in 1.4s — sleeping 28.6s
+2026-06-02 16:33:04 | DEBUG    | main | Cycle 239 done in 1.3s — sleeping 28.7s
+2026-06-02 16:33:34 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=22 | LastBar=2026-06-02 16:30:00
+2026-06-02 16:33:34 | DEBUG    | main | Cycle 240 done in 1.4s — sleeping 28.6s
+2026-06-02 16:34:05 | DEBUG    | main | Cycle 241 done in 1.8s — sleeping 28.2s
+2026-06-02 16:34:35 | DEBUG    | main | Cycle 242 done in 1.4s — sleeping 28.6s
+2026-06-02 16:35:05 | DEBUG    | main | Cycle 243 done in 1.2s — sleeping 28.8s
+2026-06-02 16:35:36 | DEBUG    | main | Cycle 244 done in 1.8s — sleeping 28.2s
+2026-06-02 16:36:09 | DEBUG    | main | Cycle 245 done in 4.9s — sleeping 25.1s
+2026-06-02 16:36:36 | DEBUG    | main | Cycle 246 done in 1.7s — sleeping 28.3s
+2026-06-02 16:37:07 | DEBUG    | main | Cycle 247 done in 2.0s — sleeping 28.0s
+2026-06-02 16:37:36 | DEBUG    | main | Cycle 248 done in 1.7s — sleeping 28.3s
+2026-06-02 16:38:07 | DEBUG    | main | Cycle 249 done in 2.0s — sleeping 28.0s
+2026-06-02 16:38:37 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=21 | LastBar=2026-06-02 16:35:00
+2026-06-02 16:38:37 | DEBUG    | main | Cycle 250 done in 2.3s — sleeping 27.7s
+2026-06-02 16:39:06 | DEBUG    | main | Cycle 251 done in 0.8s — sleeping 29.2s
+2026-06-02 16:39:37 | DEBUG    | main | Cycle 252 done in 0.7s — sleeping 29.3s
+2026-06-02 16:40:07 | DEBUG    | main | Cycle 253 done in 0.9s — sleeping 29.1s
+2026-06-02 16:40:39 | DEBUG    | main | Cycle 254 done in 2.2s — sleeping 27.8s
+2026-06-02 16:41:10 | DEBUG    | main | Cycle 255 done in 2.8s — sleeping 27.2s
+2026-06-02 16:41:39 | DEBUG    | main | Cycle 256 done in 1.4s — sleeping 28.6s
+2026-06-02 16:42:09 | DEBUG    | main | Cycle 257 done in 1.6s — sleeping 28.4s
+2026-06-02 16:42:39 | DEBUG    | main | Cycle 258 done in 1.3s — sleeping 28.7s
+2026-06-02 16:43:10 | DEBUG    | main | Cycle 259 done in 2.4s — sleeping 27.6s
+2026-06-02 16:43:40 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=21 | LastBar=2026-06-02 16:40:00
+2026-06-02 16:43:40 | DEBUG    | main | Cycle 260 done in 1.4s — sleeping 28.6s
+2026-06-02 16:44:10 | DEBUG    | main | Cycle 261 done in 1.2s — sleeping 28.8s
+2026-06-02 16:44:42 | DEBUG    | main | Cycle 262 done in 3.4s — sleeping 26.6s
+2026-06-02 16:45:10 | DEBUG    | main | Cycle 263 done in 0.8s — sleeping 29.2s
+2026-06-02 16:45:40 | DEBUG    | main | Cycle 264 done in 0.6s — sleeping 29.4s
+2026-06-02 16:46:10 | DEBUG    | main | Cycle 265 done in 0.6s — sleeping 29.4s
+2026-06-02 16:46:41 | DEBUG    | main | Cycle 266 done in 1.1s — sleeping 28.9s
+2026-06-02 16:47:11 | DEBUG    | main | Cycle 267 done in 0.8s — sleeping 29.2s
+2026-06-02 16:47:41 | DEBUG    | main | Cycle 268 done in 0.7s — sleeping 29.3s
+2026-06-02 16:48:11 | DEBUG    | main | Cycle 269 done in 0.6s — sleeping 29.4s
+2026-06-02 16:48:41 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=21 | LastBar=2026-06-02 16:45:00
+2026-06-02 16:48:41 | DEBUG    | main | Cycle 270 done in 0.7s — sleeping 29.3s
+2026-06-02 16:49:12 | DEBUG    | main | Cycle 271 done in 0.8s — sleeping 29.2s
+2026-06-02 16:49:42 | DEBUG    | main | Cycle 272 done in 0.8s — sleeping 29.2s
+2026-06-02 16:50:12 | DEBUG    | main | Cycle 273 done in 0.7s — sleeping 29.3s
+2026-06-02 16:50:43 | DEBUG    | main | Cycle 274 done in 0.7s — sleeping 29.3s
+2026-06-02 16:51:13 | DEBUG    | main | Cycle 275 done in 1.1s — sleeping 28.9s
+2026-06-02 16:51:43 | DEBUG    | main | Cycle 276 done in 0.7s — sleeping 29.3s
+2026-06-02 16:52:13 | DEBUG    | main | Cycle 277 done in 0.6s — sleeping 29.4s
+2026-06-02 16:52:44 | DEBUG    | main | Cycle 278 done in 0.9s — sleeping 29.1s
+2026-06-02 16:53:14 | DEBUG    | main | Cycle 279 done in 1.0s — sleeping 29.0s
+2026-06-02 16:53:44 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=20 | LastBar=2026-06-02 16:50:00
+2026-06-02 16:53:44 | DEBUG    | main | Cycle 280 done in 0.8s — sleeping 29.2s
+2026-06-02 16:54:15 | DEBUG    | main | Cycle 281 done in 0.9s — sleeping 29.1s
+2026-06-02 16:54:45 | DEBUG    | main | Cycle 282 done in 0.6s — sleeping 29.4s
+2026-06-02 16:55:15 | DEBUG    | main | Cycle 283 done in 0.6s — sleeping 29.4s
+2026-06-02 16:55:45 | DEBUG    | main | Cycle 284 done in 0.8s — sleeping 29.2s
+2026-06-02 16:56:16 | DEBUG    | main | Cycle 285 done in 0.9s — sleeping 29.1s
+2026-06-02 16:56:45 | DEBUG    | main | Cycle 286 done in 0.5s — sleeping 29.5s
+2026-06-02 16:57:16 | DEBUG    | main | Cycle 287 done in 1.3s — sleeping 28.7s
+2026-06-02 16:57:47 | DEBUG    | main | Cycle 288 done in 1.4s — sleeping 28.6s
+2026-06-02 16:58:17 | DEBUG    | main | Cycle 289 done in 1.4s — sleeping 28.6s
+2026-06-02 16:58:47 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=21 | LastBar=2026-06-02 16:55:00
+2026-06-02 16:58:47 | DEBUG    | main | Cycle 290 done in 0.5s — sleeping 29.5s
+2026-06-02 16:59:17 | DEBUG    | main | Cycle 291 done in 1.0s — sleeping 29.0s
+2026-06-02 16:59:47 | DEBUG    | main | Cycle 292 done in 0.9s — sleeping 29.1s
+2026-06-02 17:00:17 | DEBUG    | main | Cycle 293 done in 0.6s — sleeping 29.4s
+2026-06-02 17:00:47 | DEBUG    | main | Cycle 294 done in 0.7s — sleeping 29.3s
+2026-06-02 17:01:18 | DEBUG    | main | Cycle 295 done in 0.6s — sleeping 29.4s
+2026-06-02 17:01:48 | DEBUG    | main | Cycle 296 done in 1.1s — sleeping 28.9s
+2026-06-02 17:02:18 | DEBUG    | main | Cycle 297 done in 1.1s — sleeping 28.9s
+2026-06-02 17:02:48 | DEBUG    | main | Cycle 298 done in 0.7s — sleeping 29.3s
+2026-06-02 17:03:18 | DEBUG    | main | Cycle 299 done in 0.7s — sleeping 29.3s
+2026-06-02 17:03:52 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=21 | LastBar=2026-06-02 17:00:00
+2026-06-02 17:03:53 | DEBUG    | main | Cycle 300 done in 4.5s — sleeping 25.5s
+2026-06-02 17:04:20 | DEBUG    | main | Cycle 301 done in 1.8s — sleeping 28.2s
+2026-06-02 17:04:53 | DEBUG    | main | Cycle 302 done in 4.7s — sleeping 25.3s
+2026-06-02 17:05:22 | DEBUG    | main | Cycle 303 done in 3.5s — sleeping 26.5s
+2026-06-02 17:05:50 | DEBUG    | main | Cycle 304 done in 0.8s — sleeping 29.2s
+2026-06-02 17:06:20 | DEBUG    | main | Cycle 305 done in 0.6s — sleeping 29.4s
+2026-06-02 17:06:50 | DEBUG    | main | Cycle 306 done in 0.7s — sleeping 29.3s
+2026-06-02 17:07:23 | DEBUG    | main | Cycle 307 done in 2.9s — sleeping 27.1s
+2026-06-02 17:07:51 | DEBUG    | main | Cycle 308 done in 1.6s — sleeping 28.4s
+2026-06-02 17:08:22 | DEBUG    | main | Cycle 309 done in 1.8s — sleeping 28.2s
+2026-06-02 17:08:51 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=20 | LastBar=2026-06-02 17:05:00
+2026-06-02 17:08:51 | DEBUG    | main | Cycle 310 done in 0.6s — sleeping 29.4s
+2026-06-02 17:09:22 | DEBUG    | main | Cycle 311 done in 0.7s — sleeping 29.3s
+2026-06-02 17:09:52 | DEBUG    | main | Cycle 312 done in 0.8s — sleeping 29.2s
+2026-06-02 17:10:23 | DEBUG    | main | Cycle 313 done in 1.1s — sleeping 28.9s
+2026-06-02 17:10:53 | DEBUG    | main | Cycle 314 done in 1.6s — sleeping 28.4s
+2026-06-02 17:11:23 | DEBUG    | main | Cycle 315 done in 1.0s — sleeping 29.0s
+2026-06-02 17:11:53 | DEBUG    | main | Cycle 316 done in 1.1s — sleeping 28.9s
+2026-06-02 17:12:22 | DEBUG    | main | Cycle 317 done in 0.5s — sleeping 29.5s
+2026-06-02 17:12:53 | DEBUG    | main | Cycle 318 done in 1.0s — sleeping 29.0s
+2026-06-02 17:13:23 | DEBUG    | main | Cycle 319 done in 0.6s — sleeping 29.4s
+2026-06-02 17:13:53 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=20 | LastBar=2026-06-02 17:10:00
+2026-06-02 17:13:53 | DEBUG    | main | Cycle 320 done in 0.6s — sleeping 29.4s
+2026-06-02 17:14:23 | DEBUG    | main | Cycle 321 done in 0.8s — sleeping 29.2s
+2026-06-02 17:14:53 | DEBUG    | main | Cycle 322 done in 0.6s — sleeping 29.4s
+2026-06-02 17:15:23 | DEBUG    | main | Cycle 323 done in 0.6s — sleeping 29.4s
+2026-06-02 17:15:54 | DEBUG    | main | Cycle 324 done in 0.8s — sleeping 29.2s
+2026-06-02 17:16:24 | DEBUG    | main | Cycle 325 done in 0.8s — sleeping 29.2s
+2026-06-02 17:16:55 | DEBUG    | main | Cycle 326 done in 1.3s — sleeping 28.7s
+2026-06-02 17:17:25 | DEBUG    | main | Cycle 327 done in 0.6s — sleeping 29.4s
+2026-06-02 17:17:55 | DEBUG    | main | Cycle 328 done in 1.2s — sleeping 28.8s
+2026-06-02 17:18:26 | DEBUG    | main | Cycle 329 done in 1.3s — sleeping 28.7s
+2026-06-02 17:18:55 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=20 | LastBar=2026-06-02 17:15:00
+2026-06-02 17:18:55 | DEBUG    | main | Cycle 330 done in 0.7s — sleeping 29.3s
+2026-06-02 17:19:26 | DEBUG    | main | Cycle 331 done in 0.9s — sleeping 29.1s
+2026-06-02 17:19:56 | DEBUG    | main | Cycle 332 done in 0.6s — sleeping 29.4s
+2026-06-02 17:20:26 | DEBUG    | main | Cycle 333 done in 0.5s — sleeping 29.5s
+2026-06-02 17:20:56 | DEBUG    | main | Cycle 334 done in 0.6s — sleeping 29.4s
+2026-06-02 17:21:35 | DEBUG    | main | Cycle 335 done in 9.0s — sleeping 21.0s
+2026-06-02 17:21:56 | DEBUG    | main | Cycle 336 done in 0.6s — sleeping 29.4s
+2026-06-02 17:22:27 | DEBUG    | main | Cycle 337 done in 0.9s — sleeping 29.1s
+2026-06-02 17:22:57 | DEBUG    | main | Cycle 338 done in 0.8s — sleeping 29.2s
+2026-06-02 17:23:29 | DEBUG    | main | Cycle 339 done in 1.9s — sleeping 28.1s
+2026-06-02 17:23:58 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=20 | LastBar=2026-06-02 17:20:00
+2026-06-02 17:23:58 | DEBUG    | main | Cycle 340 done in 0.6s — sleeping 29.4s
+2026-06-02 17:24:28 | DEBUG    | main | Cycle 341 done in 0.9s — sleeping 29.1s
+2026-06-02 17:24:59 | DEBUG    | main | Cycle 342 done in 1.7s — sleeping 28.3s
+2026-06-02 17:25:09 | INFO     | main | Shutdown signal received (2). Stopping after current cycle...
+2026-06-02 17:25:09 | INFO     | main | Stopping bot...
+2026-06-02 17:25:21 | INFO     | main | ============================================================
+2026-06-02 17:25:21 | INFO     | main |   OB Trading Bot starting | symbol=XAUUSD
+2026-06-02 17:25:21 | INFO     | main |   Timeframe=M5 | DryRun=False
+2026-06-02 17:25:21 | INFO     | main | ============================================================
+2026-06-02 17:25:21 | INFO     | main | Symbol info | digits=2 | contract=100.0 | spread=38 pts
+2026-06-02 17:25:21 | DEBUG    | main | Cycle 1 done in 0.7s — sleeping 29.3s
+2026-06-02 17:25:52 | DEBUG    | main | Cycle 2 done in 1.4s — sleeping 28.6s
+2026-06-02 17:26:22 | DEBUG    | main | Cycle 3 done in 0.5s — sleeping 29.5s
+2026-06-02 17:26:52 | DEBUG    | main | Cycle 4 done in 0.7s — sleeping 29.3s
+2026-06-02 17:27:22 | DEBUG    | main | Cycle 5 done in 0.7s — sleeping 29.3s
+2026-06-02 17:27:53 | DEBUG    | main | Cycle 6 done in 0.9s — sleeping 29.1s
+2026-06-02 17:28:23 | DEBUG    | main | Cycle 7 done in 0.5s — sleeping 29.5s
+2026-06-02 17:28:54 | DEBUG    | main | Cycle 8 done in 1.3s — sleeping 28.7s
+2026-06-02 17:29:24 | DEBUG    | main | Cycle 9 done in 1.3s — sleeping 28.7s
+2026-06-02 17:29:54 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=17 | LastBar=2026-06-02 17:25:00
+2026-06-02 17:29:54 | DEBUG    | main | Cycle 10 done in 0.8s — sleeping 29.2s
+2026-06-02 17:30:25 | DEBUG    | main | Cycle 11 done in 1.2s — sleeping 28.8s
+2026-06-02 17:30:54 | DEBUG    | main | Cycle 12 done in 0.7s — sleeping 29.3s
+2026-06-02 17:31:25 | DEBUG    | main | Cycle 13 done in 0.8s — sleeping 29.2s
+2026-06-02 17:31:55 | DEBUG    | main | Cycle 14 done in 1.3s — sleeping 28.7s
+2026-06-02 17:32:25 | DEBUG    | main | Cycle 15 done in 0.7s — sleeping 29.3s
+2026-06-02 17:32:56 | DEBUG    | main | Cycle 16 done in 1.4s — sleeping 28.6s
+2026-06-02 17:33:27 | DEBUG    | main | Cycle 17 done in 1.8s — sleeping 28.2s
+2026-06-02 17:33:57 | DEBUG    | main | Cycle 18 done in 1.5s — sleeping 28.5s
+2026-06-02 17:34:26 | DEBUG    | main | Cycle 19 done in 0.8s — sleeping 29.2s
+2026-06-02 17:34:57 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=18 | LastBar=2026-06-02 17:30:00
+2026-06-02 17:34:57 | DEBUG    | main | Cycle 20 done in 1.0s — sleeping 29.0s
+2026-06-02 17:35:27 | DEBUG    | main | Cycle 21 done in 0.6s — sleeping 29.4s
+2026-06-02 17:35:57 | DEBUG    | main | Cycle 22 done in 0.6s — sleeping 29.4s
+2026-06-02 17:36:27 | DEBUG    | main | Cycle 23 done in 0.5s — sleeping 29.5s
+2026-06-02 17:36:57 | DEBUG    | main | Cycle 24 done in 0.6s — sleeping 29.4s
+2026-06-02 17:37:27 | DEBUG    | main | Cycle 25 done in 0.5s — sleeping 29.5s
+2026-06-02 17:37:58 | DEBUG    | main | Cycle 26 done in 0.8s — sleeping 29.2s
+2026-06-02 17:38:28 | DEBUG    | main | Cycle 27 done in 0.4s — sleeping 29.6s
+2026-06-02 17:39:00 | DEBUG    | main | Cycle 28 done in 2.0s — sleeping 28.0s
+2026-06-02 17:39:28 | DEBUG    | main | Cycle 29 done in 0.6s — sleeping 29.4s
+2026-06-02 17:39:59 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=18 | LastBar=2026-06-02 17:35:00
+2026-06-02 17:39:59 | DEBUG    | main | Cycle 30 done in 0.9s — sleeping 29.1s
+2026-06-02 17:40:29 | DEBUG    | main | Cycle 31 done in 0.6s — sleeping 29.4s
+2026-06-02 17:40:59 | DEBUG    | main | Cycle 32 done in 0.5s — sleeping 29.5s
+2026-06-02 17:41:29 | DEBUG    | main | Cycle 33 done in 0.6s — sleeping 29.4s
+2026-06-02 17:42:00 | DEBUG    | main | Cycle 34 done in 1.1s — sleeping 28.9s
+2026-06-02 17:42:31 | DEBUG    | main | Cycle 35 done in 2.2s — sleeping 27.8s
+2026-06-02 17:43:00 | DEBUG    | main | Cycle 36 done in 0.8s — sleeping 29.2s
+2026-06-02 17:43:32 | DEBUG    | main | Cycle 37 done in 1.8s — sleeping 28.2s
+2026-06-02 17:44:04 | DEBUG    | main | Cycle 38 done in 3.7s — sleeping 26.3s
+2026-06-02 17:44:32 | DEBUG    | main | Cycle 39 done in 1.3s — sleeping 28.7s
+2026-06-02 17:45:01 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=18 | LastBar=2026-06-02 17:45:00
+2026-06-02 17:45:01 | DEBUG    | main | Cycle 40 done in 0.6s — sleeping 29.4s
+2026-06-02 17:45:32 | DEBUG    | main | Cycle 41 done in 1.6s — sleeping 28.4s
+2026-06-02 17:46:05 | DEBUG    | main | Cycle 42 done in 4.0s — sleeping 26.0s
+2026-06-02 17:46:32 | DEBUG    | main | Cycle 43 done in 0.5s — sleeping 29.5s
+2026-06-02 17:47:02 | DEBUG    | main | Cycle 44 done in 0.7s — sleeping 29.3s
+2026-06-02 17:47:32 | DEBUG    | main | Cycle 45 done in 0.5s — sleeping 29.5s
+2026-06-02 17:48:03 | DEBUG    | main | Cycle 46 done in 1.0s — sleeping 29.0s
+2026-06-02 17:48:32 | DEBUG    | main | Cycle 47 done in 0.5s — sleeping 29.5s
+2026-06-02 17:49:03 | DEBUG    | main | Cycle 48 done in 0.6s — sleeping 29.4s
+2026-06-02 17:49:33 | DEBUG    | main | Cycle 49 done in 0.5s — sleeping 29.5s
+2026-06-02 17:50:05 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=17 | LastBar=2026-06-02 17:50:00
+2026-06-02 17:50:05 | DEBUG    | main | Cycle 50 done in 2.8s — sleeping 27.2s
+2026-06-02 17:50:33 | DEBUG    | main | Cycle 51 done in 0.9s — sleeping 29.1s
+2026-06-02 17:51:03 | DEBUG    | main | Cycle 52 done in 0.5s — sleeping 29.5s
+2026-06-02 17:51:45 | DEBUG    | main | Cycle 53 done in 12.2s — sleeping 17.8s
+2026-06-02 17:52:05 | DEBUG    | main | Cycle 54 done in 2.0s — sleeping 28.0s
+2026-06-02 17:52:35 | DEBUG    | main | Cycle 55 done in 1.7s — sleeping 28.3s
+2026-06-02 17:53:05 | DEBUG    | main | Cycle 56 done in 1.6s — sleeping 28.4s
+2026-06-02 17:53:35 | DEBUG    | main | Cycle 57 done in 1.1s — sleeping 28.9s
+2026-06-02 17:54:05 | DEBUG    | main | Cycle 58 done in 1.4s — sleeping 28.6s
+2026-06-02 17:54:35 | DEBUG    | main | Cycle 59 done in 0.7s — sleeping 29.3s
+2026-06-02 17:55:05 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=16 | LastBar=2026-06-02 17:55:00
+2026-06-02 17:55:05 | DEBUG    | main | Cycle 60 done in 0.8s — sleeping 29.2s
+2026-06-02 17:55:37 | DEBUG    | main | Cycle 61 done in 1.9s — sleeping 28.1s
+2026-06-02 17:56:07 | DEBUG    | main | Cycle 62 done in 1.7s — sleeping 28.3s
+2026-06-02 17:56:36 | DEBUG    | main | Cycle 63 done in 0.9s — sleeping 29.1s
+2026-06-02 17:57:07 | DEBUG    | main | Cycle 64 done in 0.9s — sleeping 29.1s
+2026-06-02 17:57:37 | DEBUG    | main | Cycle 65 done in 0.8s — sleeping 29.2s
+2026-06-02 17:58:08 | DEBUG    | main | Cycle 66 done in 0.9s — sleeping 29.1s
+2026-06-02 17:58:38 | DEBUG    | main | Cycle 67 done in 0.7s — sleeping 29.3s
+2026-06-02 17:59:09 | DEBUG    | main | Cycle 68 done in 1.2s — sleeping 28.8s
+2026-06-02 17:59:38 | DEBUG    | main | Cycle 69 done in 0.8s — sleeping 29.2s
+2026-06-02 18:00:09 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=18 | LastBar=2026-06-02 18:00:00
+2026-06-02 18:00:09 | DEBUG    | main | Cycle 70 done in 0.9s — sleeping 29.1s
+2026-06-02 18:00:39 | DEBUG    | main | Cycle 71 done in 0.7s — sleeping 29.3s
+2026-06-02 18:01:09 | DEBUG    | main | Cycle 72 done in 0.9s — sleeping 29.1s
+2026-06-02 18:01:40 | DEBUG    | main | Cycle 73 done in 0.8s — sleeping 29.2s
+2026-06-02 18:02:10 | DEBUG    | main | Cycle 74 done in 0.8s — sleeping 29.2s
+2026-06-02 18:02:41 | DEBUG    | main | Cycle 75 done in 1.1s — sleeping 28.9s
+2026-06-02 18:03:11 | DEBUG    | main | Cycle 76 done in 0.9s — sleeping 29.1s
+2026-06-02 18:03:41 | DEBUG    | main | Cycle 77 done in 1.4s — sleeping 28.6s
+2026-06-02 18:04:12 | DEBUG    | main | Cycle 78 done in 1.1s — sleeping 28.9s
+2026-06-02 18:04:42 | DEBUG    | main | Cycle 79 done in 1.0s — sleeping 29.0s
+2026-06-02 18:05:12 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=16 | LastBar=2026-06-02 18:05:00
+2026-06-02 18:05:12 | DEBUG    | main | Cycle 80 done in 0.9s — sleeping 29.1s
+2026-06-02 18:05:42 | DEBUG    | main | Cycle 81 done in 0.6s — sleeping 29.4s
+2026-06-02 18:06:13 | DEBUG    | main | Cycle 82 done in 1.4s — sleeping 28.6s
+2026-06-02 18:06:47 | DEBUG    | main | Cycle 83 done in 5.6s — sleeping 24.4s
+2026-06-02 18:07:12 | DEBUG    | main | Cycle 84 done in 0.5s — sleeping 29.5s
+2026-06-02 18:07:44 | DEBUG    | main | Cycle 85 done in 1.7s — sleeping 28.3s
+2026-06-02 18:08:14 | DEBUG    | main | Cycle 86 done in 1.5s — sleeping 28.5s
+2026-06-02 18:08:44 | DEBUG    | main | Cycle 87 done in 1.2s — sleeping 28.8s
+2026-06-02 18:09:14 | DEBUG    | main | Cycle 88 done in 1.6s — sleeping 28.4s
+2026-06-02 18:09:44 | DEBUG    | main | Cycle 89 done in 1.0s — sleeping 29.0s
+2026-06-02 18:10:14 | INFO     | main | STATUS | Balance=11.24 | Equity=11.24 | OpenTrades=0 | ActiveOBs=18 | LastBar=2026-06-02 18:10:00
+2026-06-02 18:10:14 | DEBUG    | main | Cycle 90 done in 1.2s — sleeping 28.8s
+2026-06-02 18:10:44 | DEBUG    | main | Cycle 91 done in 1.1s — sleeping 28.9s
+2026-06-02 18:11:15 | DEBUG    | main | Cycle 92 done in 1.3s — sleeping 28.7s
+2026-06-02 18:11:45 | DEBUG    | main | Cycle 93 done in 1.4s — sleeping 28.6s
+2026-06-02 18:12:15 | DEBUG    | main | Cycle 94 done in 1.0s — sleeping 29.0s
+2026-06-02 18:12:45 | DEBUG    | main | Cycle 95 done in 0.9s — sleeping 29.1s
+2026-06-02 18:13:16 | DEBUG    | main | Cycle 96 done in 1.2s — sleeping 28.8s
+2026-06-02 18:13:46 | DEBUG    | main | Cycle 97 done in 1.3s — sleeping 28.7s
+2026-06-02 18:14:17 | DEBUG    | main | Cycle 98 done in 1.3s — sleeping 28.7s
+2026-06-02 18:14:20 | INFO     | main | Shutdown signal received (2). Stopping after current cycle...
+2026-06-02 18:14:20 | INFO     | main | Stopping bot...
