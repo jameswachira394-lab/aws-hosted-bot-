@@ -200,3 +200,62 @@
 2026-06-02 16:39:37 | DEBUG    | signal_engine | OB@2026-06-01 15:55:00: trend filter rejected SELL
 2026-06-02 16:39:37 | DEBUG    | signal_engine | OB@2026-06-01 15:40:00: trend filter rejected SELL
 2026-06-02 16:39:37 | DEBUG    | signal_engine | OB@2026-06-02 11:30:00: trend filter rejected SELL
+2026-06-02 18:25:06 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4503.72990 SL=4512.01030 TP1=4495.44950 TP2=4487.16910 | Risk=82804.0pips
+2026-06-02 18:25:36 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4503.72990 SL=4512.01030 TP1=4495.44950 TP2=4487.16910 | Risk=82804.0pips
+2026-06-02 18:26:06 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4503.72990 SL=4512.01030 TP1=4495.44950 TP2=4487.16910 | Risk=82804.0pips
+2026-06-02 18:26:36 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4503.72990 SL=4512.01030 TP1=4495.44950 TP2=4487.16910 | Risk=82804.0pips
+2026-06-02 18:27:06 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4503.72990 SL=4512.01030 TP1=4495.44950 TP2=4487.16910 | Risk=82804.0pips
+2026-06-02 18:27:36 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4503.72990 SL=4512.01030 TP1=4495.44950 TP2=4487.16910 | Risk=82804.0pips
+2026-06-02 18:28:06 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4503.72990 SL=4512.01030 TP1=4495.44950 TP2=4487.16910 | Risk=82804.0pips
+2026-06-02 18:28:37 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4503.72990 SL=4512.01030 TP1=4495.44950 TP2=4487.16910 | Risk=82804.0pips
+2026-06-02 18:29:07 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4503.72990 SL=4512.01030 TP1=4495.44950 TP2=4487.16910 | Risk=82804.0pips
+2026-06-02 18:29:37 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4503.72990 SL=4512.01030 TP1=4495.44950 TP2=4487.16910 | Risk=82804.0pips
+2026-06-02 18:30:07 | DEBUG    | signal_engine | OB@2026-06-02 07:25:00: trend filter rejected BUY
+2026-06-02 18:31:08 | DEBUG    | signal_engine | OB@2026-06-02 07:25:00: trend filter rejected BUY
+2026-06-02 18:31:38 | DEBUG    | signal_engine | OB@2026-06-02 07:25:00: trend filter rejected BUY
+2026-06-02 18:31:38 | DEBUG    | signal_engine | OB@2026-06-02 07:20:00: trend filter rejected BUY
+2026-06-02 18:32:08 | DEBUG    | signal_engine | OB@2026-06-02 07:25:00: trend filter rejected BUY
+2026-06-02 18:32:39 | DEBUG    | signal_engine | OB@2026-06-02 07:25:00: trend filter rejected BUY
+2026-06-02 18:32:39 | DEBUG    | signal_engine | OB@2026-06-02 07:20:00: trend filter rejected BUY
+2026-06-02 18:33:09 | DEBUG    | signal_engine | OB@2026-06-02 07:25:00: trend filter rejected BUY
+2026-06-02 18:33:39 | DEBUG    | signal_engine | OB@2026-06-02 07:25:00: trend filter rejected BUY
+2026-06-02 18:33:39 | DEBUG    | signal_engine | OB@2026-06-02 07:20:00: trend filter rejected BUY
+2026-06-02 18:34:10 | DEBUG    | signal_engine | OB@2026-06-02 07:25:00: trend filter rejected BUY
+2026-06-02 18:34:40 | DEBUG    | signal_engine | OB@2026-06-02 07:25:00: trend filter rejected BUY
+2026-06-02 18:34:40 | DEBUG    | signal_engine | OB@2026-06-02 07:20:00: trend filter rejected BUY
+2026-06-02 18:35:10 | INFO     | signal_engine | SIGNAL | BUY XAUUSD | Entry=4506.22010 SL=4504.12970 TP1=4508.31050 TP2=4510.40090 | Risk=20904.0pips
+2026-06-02 18:35:41 | INFO     | signal_engine | SIGNAL | BUY XAUUSD | Entry=4506.22010 SL=4504.12970 TP1=4508.31050 TP2=4510.40090 | Risk=20904.0pips
+2026-06-02 18:36:11 | INFO     | signal_engine | SIGNAL | BUY XAUUSD | Entry=4506.22010 SL=4504.12970 TP1=4508.31050 TP2=4510.40090 | Risk=20904.0pips
+2026-06-02 18:36:41 | INFO     | signal_engine | SIGNAL | BUY XAUUSD | Entry=4506.22010 SL=4504.12970 TP1=4508.31050 TP2=4510.40090 | Risk=20904.0pips
+2026-06-02 18:37:11 | INFO     | signal_engine | SIGNAL | BUY XAUUSD | Entry=4506.22010 SL=4504.12970 TP1=4508.31050 TP2=4510.40090 | Risk=20904.0pips
+2026-06-02 18:37:41 | INFO     | signal_engine | SIGNAL | BUY XAUUSD | Entry=4506.22010 SL=4504.12970 TP1=4508.31050 TP2=4510.40090 | Risk=20904.0pips
+2026-06-02 18:38:11 | INFO     | signal_engine | SIGNAL | BUY XAUUSD | Entry=4506.22010 SL=4504.12970 TP1=4508.31050 TP2=4510.40090 | Risk=20904.0pips
+2026-06-02 18:38:41 | INFO     | signal_engine | SIGNAL | BUY XAUUSD | Entry=4506.22010 SL=4504.12970 TP1=4508.31050 TP2=4510.40090 | Risk=20904.0pips
+2026-06-02 18:39:12 | INFO     | signal_engine | SIGNAL | BUY XAUUSD | Entry=4506.22010 SL=4504.12970 TP1=4508.31050 TP2=4510.40090 | Risk=20904.0pips
+2026-06-02 18:39:42 | INFO     | signal_engine | SIGNAL | BUY XAUUSD | Entry=4506.22010 SL=4504.12970 TP1=4508.31050 TP2=4510.40090 | Risk=20904.0pips
+2026-06-02 18:40:12 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4504.43990 SL=4510.99030 TP1=4497.88950 TP2=4491.33910 | Risk=65504.0pips
+2026-06-02 18:40:42 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4504.43990 SL=4510.99030 TP1=4497.88950 TP2=4491.33910 | Risk=65504.0pips
+2026-06-02 18:41:13 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4504.43990 SL=4510.99030 TP1=4497.88950 TP2=4491.33910 | Risk=65504.0pips
+2026-06-02 18:41:43 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4504.43990 SL=4510.99030 TP1=4497.88950 TP2=4491.33910 | Risk=65504.0pips
+2026-06-02 18:42:13 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4504.43990 SL=4510.99030 TP1=4497.88950 TP2=4491.33910 | Risk=65504.0pips
+2026-06-02 18:42:43 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4504.43990 SL=4510.99030 TP1=4497.88950 TP2=4491.33910 | Risk=65504.0pips
+2026-06-02 18:43:14 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4504.43990 SL=4510.99030 TP1=4497.88950 TP2=4491.33910 | Risk=65504.0pips
+2026-06-02 18:43:44 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4504.43990 SL=4510.99030 TP1=4497.88950 TP2=4491.33910 | Risk=65504.0pips
+2026-06-02 18:44:14 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4504.43990 SL=4510.99030 TP1=4497.88950 TP2=4491.33910 | Risk=65504.0pips
+2026-06-02 18:44:44 | INFO     | signal_engine | SIGNAL | SELL XAUUSD | Entry=4504.43990 SL=4510.99030 TP1=4497.88950 TP2=4491.33910 | Risk=65504.0pips
+2026-06-02 18:50:46 | INFO     | signal_engine | SIGNAL | BUY XAUUSD | Entry=4505.59010 SL=4504.12970 TP1=4507.05050 TP2=4508.51090 | Risk=14604.0pips
+2026-06-02 18:51:16 | INFO     | signal_engine | SIGNAL | BUY XAUUSD | Entry=4505.59010 SL=4504.12970 TP1=4507.05050 TP2=4508.51090 | Risk=14604.0pips
+2026-06-02 18:51:46 | INFO     | signal_engine | SIGNAL | BUY XAUUSD | Entry=4505.59010 SL=4504.12970 TP1=4507.05050 TP2=4508.51090 | Risk=14604.0pips
+2026-06-02 18:53:47 | INFO     | signal_engine | SIGNAL | BUY XAUUSD | Entry=4505.59010 SL=4504.12970 TP1=4507.05050 TP2=4508.51090 | Risk=14604.0pips
+2026-06-02 19:10:25 | DEBUG    | signal_engine | OB@2026-06-02 06:30:00: trend filter rejected BUY
+2026-06-02 19:10:25 | DEBUG    | signal_engine | OB@2026-06-02 06:50:00: trend filter rejected BUY
+2026-06-02 19:10:55 | DEBUG    | signal_engine | OB@2026-06-02 06:30:00: trend filter rejected BUY
+2026-06-02 19:10:55 | DEBUG    | signal_engine | OB@2026-06-02 06:50:00: trend filter rejected BUY
+2026-06-02 19:11:25 | DEBUG    | signal_engine | OB@2026-06-02 06:30:00: trend filter rejected BUY
+2026-06-02 19:11:25 | DEBUG    | signal_engine | OB@2026-06-02 06:50:00: trend filter rejected BUY
+2026-06-02 19:11:55 | DEBUG    | signal_engine | OB@2026-06-02 06:30:00: trend filter rejected BUY
+2026-06-02 19:11:55 | DEBUG    | signal_engine | OB@2026-06-02 06:50:00: trend filter rejected BUY
+2026-06-02 19:12:26 | DEBUG    | signal_engine | OB@2026-06-02 06:30:00: trend filter rejected BUY
+2026-06-02 19:12:26 | DEBUG    | signal_engine | OB@2026-06-02 06:50:00: trend filter rejected BUY
+2026-06-02 19:12:56 | DEBUG    | signal_engine | OB@2026-06-02 06:30:00: trend filter rejected BUY
+2026-06-02 19:12:56 | DEBUG    | signal_engine | OB@2026-06-02 06:50:00: trend filter rejected BUY
